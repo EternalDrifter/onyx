@@ -1,17 +1,11 @@
-# Welcome to MkDocs
+# Здравствуй, путешественник
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+Я, Мохарий Сет, считаю необходимым зафиксировать свои наблюдения о флоре, фауне, мире, государствах, регионах, богах, происходящих событиях и обо всём, что захочу. Ну а что ты мне сделаешь, найди меня для начала?. Сей труд был начат в 354 г. и продолжает писаться до сих пор.
 
-## Commands
+## Уточнение
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
+Несмотря на мою искреннюю *«любовь»* к некоторым представителям разумной и не очень фауны, местам и событиям, в данной хронике будут предприняты меры по отделению субъективного от фактов.
 
-## Project layout
+### И помни, путешественник
 
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+    > Опасен не зверь, не человек и не сталь. А поспешность.
