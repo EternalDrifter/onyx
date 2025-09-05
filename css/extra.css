@@ -1,0 +1,14 @@
+
+h1 {
+    border-bottom: 2px solid #505050;
+    padding-bottom: 4px;
+    margin-bottom: 18px;
+    margin-top: 0px;
+}
+
+h2, h3, h4 {
+    border-bottom: 2px solid #747474;
+    padding-bottom: 4px;
+    margin-bottom: 18px;
+    margin-top: 0px;
+}
