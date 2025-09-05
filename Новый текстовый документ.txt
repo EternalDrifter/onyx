@@ -1,21 +1,21 @@
+
 site_name: "Оникс: Краткая Энциклопедия - Мохарий Сет, 356 г. от Катаклизма (Завоевания драконов)"
 site_description: Лор, карты и всякая хуйня
 site_author: Мохарий Сет
-
 theme:
   name: material
-  features:
-    - palette.toggle  
   palette:
-    - scheme: default
-      primary: blue
-      accent: red
-    - scheme: slate
-      primary: teal
-      accent: lime
-      toggle:
-        icon: material/theme-light-dark
-        name: Смена темы
+  - scheme: default
+    primary: blue
+    accent: red
+  - scheme: slate
+    primary: teal
+    accent: lime
+    toggle:
+      icon: material/theme-light-dark
+      name: Смена темы
+  features:
+   - palette.toggle
 
 nav:
   - Главная: index.md
