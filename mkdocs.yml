@@ -29,3 +29,11 @@ nav:
       - Локации: locations.md
       - Боги: gods.md
   - Свободные города: indeptowns.md
+
+extra_css:  
+ - css/extra.css
+markdown_extensions:
+ - admonition
+ - pymdownx.details
+ - pymdownx.superfences
+
