@@ -5,8 +5,15 @@ site_author: Мохарий Сет
 theme:
   name: material
   palette:
+  - scheme: default
     primary: blue
     accent: red
+  - scheme: slate
+    primary: teal
+    accent: lime
+    toggle:
+      icon: material/theme-light-dark
+      name: Смена темы
 nav:
   - Главная: index.md
   - Лор:
