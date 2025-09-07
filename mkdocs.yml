@@ -1,4 +1,5 @@
-site_name: "Оникс: Краткая Энциклопедия - Мохарий Сет, 356 г. от Катаклизма"
+site_name: "Оникс: Краткая Энциклопедия"
+site_url: https://eternaldrifter.github.io/onyx/
 site_description: Лор, карты и всякая хуйня
 site_author: Мохарий Сет
 
@@ -23,15 +24,18 @@ theme:
 nav:
   - Главная: index.md
   - Лор:
-      - Общий лор: lore.md
-      - Хронология: time.md
-      - Государства: countryis.md
-      - Локации: locations.md
-      - Боги: gods.md
+      - География: lore/geograph.md
+      - Общий лор: lore/lore.md
+      - Хронология: lore/time.md
+      - Государства: lore/countryis.md
+      - Локации: lore/locations.md
+      - Боги: lore/gods.md
   - Свободные города: indeptowns.md
+  - Веймария: veym.md
 
 extra_css:  
  - css/extra.css
+
 markdown_extensions:
  - admonition
  - pymdownx.details
