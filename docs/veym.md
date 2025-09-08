@@ -1,3 +1,7 @@
+<h1 style="font-weight:bold; letter-spacing:1px; color:black; text-align: center;"> Королевство Веймария </h1>
+
+
+
 Правитель: Десимий Веймар
 Столица: Тальзур
 Крупные Города:

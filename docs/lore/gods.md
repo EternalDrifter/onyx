@@ -1,4 +1,4 @@
-# **Боги**
+<h1 style="font-weight:bold; letter-spacing:2px; color:black; text-align: center;"> Боги </h1>
 
 > Вопреки мнению жрецов и верунов, наподобие фанатиков *Санкты*, боги мира **Оникса** — всего лишь ещё *одна* сила среди **множества других**. Их деяния могут быть важны, а силы велики, но они не управляют всеми событиями мира, не являются краеугольным камнем. Лишь один из кирпичиков.
 
@@ -62,9 +62,33 @@
       <td style="padding: 6px; border: 1px solid #ccc; "> Трикветр </td>
       <td style="padding: 6px; border: 1px solid #ccc; ">  </td>
     </tr>
+    <tr style="background-color: #f9f9f9; ">
+      <td style="padding: 6px; border: 1px solid #ccc; "> </td>
+      <td style="padding: 6px; border: 1px solid #ccc; text-align:center; ">  </td>
+      <td style="padding: 6px; border: 1px solid #ccc; ">  </td>
+      <td style="padding: 6px; border: 1px solid #ccc; ">  </td>
+      <td style="padding: 6px; border: 1px solid #ccc; ">  </td>
+    </tr>
+    <tr>
+      <td style="padding: 6px; border: 1px solid #ccc; "> </td>
+      <td style="padding: 6px; border: 1px solid #ccc; text-align:center; ">  </td>
+      <td style="padding: 6px; border: 1px solid #ccc; ">  </td>
+      <td style="padding: 6px; border: 1px solid #ccc; ">  </td>
+      <td style="padding: 6px; border: 1px solid #ccc; ">  </td>
+    </tr>
+    <tr style="background-color: #f9f9f9; ">
+      <td style="padding: 6px; border: 1px solid #ccc; "> </td>
+      <td style="padding: 6px; border: 1px solid #ccc; text-align:center; ">  </td>
+      <td style="padding: 6px; border: 1px solid #ccc; ">  </td>
+      <td style="padding: 6px; border: 1px solid #ccc; ">  </td>
+      <td style="padding: 6px; border: 1px solid #ccc; ">  </td>
+    </tr>
   </tbody>
 </table>
 
+
+### **ВАЖНО**
+**Это не конечный список всех богов вмире**. Он может дополняться, изменяться, уточняться, исправляться, корректироваться и т.д.
 
 <h2 id="1">Диан Кехт</h2>
 <p>Здесь когда-нибудь появятся подробности (наверное).</p>
