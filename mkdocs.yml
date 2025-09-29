@@ -23,6 +23,7 @@ theme:
 
 nav:
   - Главная: index.md
+  - Календарь: calendar.md
   - Лор:
       - География: lore/geograph.md
       - Общий лор: lore/lore.md
@@ -43,6 +44,7 @@ markdown_extensions:
  - pymdownx.tilde
  - pymdownx.inlinehilite
  - pymdownx.emoji
+ - pymdownx.caret
  - attr_list
  - tables
  - footnotes
