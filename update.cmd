@@ -1,4 +1,4 @@
 git add .
-git commit -m "Update: %date% %time%"
+git commit -m "Веймарию фактически начал нормально делать"
 git push
 py -m mkdocs gh-deploy
