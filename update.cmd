@@ -1,4 +1,4 @@
 git add .
-git commit -m "Веймарию фактически начал нормально делать"
+git commit -m " Комментарий "
 git push
 py -m mkdocs gh-deploy
