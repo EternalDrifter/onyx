@@ -23,14 +23,16 @@ theme:
 
 nav:
   - Главная: index.md
-  - Календарь: calendar.md
+  - ЗАКРЫТО НАХУЙ: calendar.md 
   - Лор:
       - География: lore/geograph.md
       - Общий лор: lore/lore.md
       - Хронология: lore/time.md
       - Государства: lore/countryis.md
+      - Организции: lore/orgs.md
       - Локации: lore/locations.md
       - Боги: lore/gods.md
+      
   - Свободные города: indeptowns.md
   - Веймария: veym.md
 
