@@ -23,7 +23,7 @@ theme:
 
 nav:
   - Главная: index.md
-  - ЗАКРЫТО НАХУЙ: calendar.md 
+  # Календарь: calendar.md 
   - Лор:
       - География: lore/geograph.md
       - Общий лор: lore/lore.md
