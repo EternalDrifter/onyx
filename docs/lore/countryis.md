@@ -1,6 +1,6 @@
 <h1 style="font-weight:bold; letter-spacing:2px; color:black; text-align: center;"> Государства </h1>
 
-<style> /* Спойлер */
+<style> 
 .spoiler {
   background-color: #444;
   color: transparent;
