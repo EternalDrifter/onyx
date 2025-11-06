@@ -25,8 +25,8 @@ nav:
   - Главная: index.md
   # Календарь: calendar.md 
   - Лор:
-      - География: lore/geograph.md
       - Общий лор: lore/lore.md
+      - География: lore/geograph.md
       - Хронология: lore/time.md
       - Государства: lore/countryis.md
       - Организции: lore/orgs.md
