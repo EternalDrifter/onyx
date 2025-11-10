@@ -78,7 +78,7 @@
 
 
 ### **Дворянство**
-<  border="1" cellspacing="0" cellpadding="6" style="font-size: 15px;">
+<table  border="1" cellspacing="0" cellpadding="6" style="font-size: 15px;">
   <thead style="background-color:#ecf1fe;">
     <tr>
       <th>Титул</th>
@@ -100,11 +100,11 @@
     </tr>
     <tr>
       <td>Граф</td>
-      <td>Милость</td>
+      <td>Сиятельство</td>
     </tr>
     <tr>
       <td>Барон</td>
-      <td>Сиятельство</td>
+      <td>Милость</td>
     </tr>
     <tr>
       <td>Дворянин Короны / Рыцарь</td>
