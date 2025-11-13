@@ -35,7 +35,9 @@ nav:
       - Боги: lore/gods.md
       
   - Свободные города: indeptowns.md
-  - Веймария: veym.md
+  - Веймария:
+      - Веймария: veym.md
+      - Наёмники: veym/mercenary.md
 
 extra_css:  
  - css/extra.css
