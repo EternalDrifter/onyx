@@ -31,13 +31,17 @@ nav:
       - Государства: lore/countryis.md
       - Организции: lore/orgs.md
       - Локации: lore/locations.md
-      - Расы: lore/race.md
+      - Магия: lore/magic.md
       - Боги: lore/gods.md
+      - Расы: lore/race.md
+      
       
   - Свободные города: indeptowns.md
   - Веймария:
-      - Веймария: veym.md
+      - Общая информация: veym/veym.md
+      
       - Наёмники: veym/mercenary.md
+
 
 extra_css:  
  - css/extra.css
