@@ -63,10 +63,10 @@
       <td style="padding: 6px; border: 1px solid #ccc; ">  </td>
     </tr>
     <tr style="background-color: #f9f9f9; ">
-      <td style="padding: 6px; border: 1px solid #ccc; "> </td>
+      <td style="padding: 6px; border: 1px solid #ccc; "> Шейд </td>
       <td style="padding: 6px; border: 1px solid #ccc; text-align:center; ">  </td>
-      <td style="padding: 6px; border: 1px solid #ccc; ">  </td>
-      <td style="padding: 6px; border: 1px solid #ccc; ">  </td>
+      <td style="padding: 6px; border: 1px solid #ccc; "> ХН </td>
+      <td style="padding: 6px; border: 1px solid #ccc; "> Обман, Сумрак </td>
       <td style="padding: 6px; border: 1px solid #ccc; ">  </td>
     </tr>
     <tr>

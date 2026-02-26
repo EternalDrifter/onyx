@@ -61,7 +61,7 @@
 <br>
 
 ??? info "**Карта**"
-    ![Карта Веймарии](../lore/count/veymaria.png)
+    ![Карта Веймарии](../lore/count/veymaria.png)   
 
 
 
